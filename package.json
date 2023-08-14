@@ -1,6 +1,6 @@
 {
   "name": "least-recent",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A cache object that deletes the least-recently-used items",
   "scripts": {
     "build": "./node_modules/.bin/tsc -p tsconfig.build.json",
