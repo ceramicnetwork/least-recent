@@ -13,6 +13,14 @@
     "lru-cache",
     "cache"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ceramicnetwork/least-recent.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ceramicnetwork/least-recent/issues"
+  },
+  "homepage": "https://github.com/ceramicnetwork/least-recent",
   "author": "Sergey Ukustov <sergey@ukstv.me>",
   "license": "(MIT OR Apache-2.0)",
   "type": "module",
